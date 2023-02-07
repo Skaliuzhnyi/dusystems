@@ -21,7 +21,7 @@ const homeTexts = {
   },
   "slider_title_1": {
     ua: "Розумний будинок",
-    en: "Smart house technology",
+    en: "Smart house",
     pl: "Inteligentny dom",
   },
   "slider_text_1": {
@@ -54,7 +54,17 @@ const homeTexts = {
     en: "from the Disystems company is the selection, arrangement, installation and adjustment of sound systems in rooms of any purpose.",
     pl: "z firmy Disystems to dobór, aranżacja, montaż i regulacja systemów nagłośnienia w pomieszczeniach o dowolnym przeznaczeniu.",
   },
-  "slider_btn": {
+  "slider_btn_1": {
+    ua: "Наші послуги",
+    en: "Our services",
+    pl: "Nasze Usługi",
+  },
+  "slider_btn_2": {
+    ua: "Наші послуги",
+    en: "Our services",
+    pl: "Nasze Usługi",
+  },
+  "slider_btn_3": {
     ua: "Наші послуги",
     en: "Our services",
     pl: "Nasze Usługi",
@@ -63,9 +73,9 @@ const homeTexts = {
   //
 
   "about-v2__subtitle": {
-    ua: "ПРОФЕСІОНАЛІЗМ,<br> ДОСВІДЧЕНІСТЬ І ПОРЯДНІСТЬ",
-    en: "PROFESSIONALISM,<br> EXPERIENCE AND decency",
-    pl: "PROFESJONALIZM,<br> DOŚWIADCZENIE I przyzwoitość",
+    ua: "ПРОФЕСІОНАЛІЗМ, ДОСВІДЧЕНІСТЬ І ПОРЯДНІСТЬ",
+    en: "PROFESSIONALISM, EXPERIENCE AND decency",
+    pl: "PROFESJONALIZM, DOŚWIADCZENIE I przyzwoitość",
   },
   "about_p-1": {
     ua: "Компанія Disystems – це десятирічний досвід роботи з продажу, проектування та встановлення відео-, світлового та звукового обладнання як для індивідуальних замовників, так і для різнопрофільних комерційних підприємств. на сьогодні Disystems є одним з українських лідерів у встановленні та налаштуванні інноваційних мультимедійних інженерних рішень. Disystems спеціалізується на новітніх розробках та інтегрованих системах, які здатні полегшити життя та зробити його максимально комфортним за допомогою автоматизації та високотехнологічних пристроїв.",
@@ -102,7 +112,7 @@ const homeTexts = {
   },
   "smart__house-title": {
     ua: "Розумний будинок",
-    en: "Smart house technology",
+    en: "Smart house",
     pl: "Inteligentny dom",
   },
   "card__item_hover_1": {
@@ -270,7 +280,7 @@ const homeTexts = {
 
   "nav-smart__house": {
     ua: "Розумний будинок",
-    en: "Smart house technology",
+    en: "Smart house",
     pl: "Inteligentny dom",
   },
   "nav-home__cinema": {
@@ -298,12 +308,12 @@ const homeTexts = {
 
   "smart__house_title": {
     ua: "Розумний будинок",
-    en: "Smart house technology",
+    en: "Smart house",
     pl: "Inteligentny dom",
   },
   "smart__house_h3": {
     ua: "Технологія «Розумний будинок» - неймовірно зручний винахід людства, що дозволяє повністю керувати будівлею, використовуючи лише пульт, планшет або смартфон.Ви можете в два кліки налаштувати освітлення, мікроклімат, сигналізацію, відеоспостереження та багато іншого.",
-    en: "The Smart House technology is an incredibly convenient invention of mankind, which allows you to fully control the building using only a remote control, tablet or smartphone. You can adjust lighting, microclimate, alarm, video surveillance and much more in two clicks.",
+    en: "The Smart house is an incredibly convenient invention of mankind, which allows you to fully control the building using only a remote control, tablet or smartphone. You can adjust lighting, microclimate, alarm, video surveillance and much more in two clicks.",
     pl: "Technologia Inteligentnego Domu to niezwykle wygodny wynalazek ludzkości, który pozwala w pełni sterować budynkiem za pomocą tylko pilota, tabletu lub smartfona.Dwoma kliknięciami możesz regulować oświetlenie, mikroklimat, alarm, monitoring i wiele więcej.",
   },
   "smart__house_p1": {
