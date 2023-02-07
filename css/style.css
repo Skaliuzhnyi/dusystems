@@ -640,6 +640,8 @@ h6 {
 }
 
 .lang {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
   width: fit-content;
   cursor: pointer;
   display: -webkit-box;
@@ -720,7 +722,7 @@ h6 {
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
-  border: 2px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 .lang .header__btn_active {
   background-color: #FFFFFF;

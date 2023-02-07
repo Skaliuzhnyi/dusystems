@@ -281,6 +281,81 @@ const homeTexts = {
     en: "Smart house technology",
     pl: "Inteligentny dom",
   },
+  "smart__house_h3": {
+    ua: "Технологія «Розумний будинок» - неймовірно зручний винахід людства, що дозволяє повністю керувати будівлею, використовуючи лише пульт, планшет або смартфон.Ви можете в два кліки налаштувати освітлення, мікроклімат, сигналізацію, відеоспостереження та багато іншого.",
+    en: "The Smart House technology is an incredibly convenient invention of mankind, which allows you to fully control the building using only a remote control, tablet or smartphone. You can adjust lighting, microclimate, alarm, video surveillance and much more in two clicks.",
+    pl: "Technologia Inteligentnego Domu to niezwykle wygodny wynalazek ludzkości, który pozwala w pełni sterować budynkiem za pomocą tylko pilota, tabletu lub smartfona.Dwoma kliknięciami możesz regulować oświetlenie, mikroklimat, alarm, monitoring i wiele więcej.",
+  },
+  "smart__house_p1": {
+    ua: "Тільки уявіть: Ви зможете полити газон, не встаючи з дивана, і читаючи улюблену книгу. Ви забудете про встановлення сигналізації, відкриття та закриття вікон, опускання штор та жалюзі, а також інших домашніх справах,оскільки Розумний будинок зробить все за Вас.А ще він дасть знати, що відбувається у Вашій оселі, навіть коли Вас там немає, сповістить про витік води або газу.Як бачите, це не лише зручність, а й безпека!",
+    en: "Just imagine: You will be able to water the lawn without getting up from the sofa and reading your favorite book. You will forget about installing an alarm, opening and closing windows, lowering curtains and blinds, as well as other household chores, because the Smart House will do everything for you. And it will also let you know what is happening in your home, even when you are not there, will notify about water or gas leak. As you can see, this is not only convenience, but also safety!",
+    pl: "Wyobraź sobie: będziesz mógł podlewać trawnik bez wstawania z kanapy i czytania ulubionej książki. Zapomnisz o instalowaniu alarmu, otwieraniu i zamykaniu okien, opuszczaniu zasłon i rolet oraz innych domowych obowiązkach, bo Inteligentny Dom zrobi wszystko za Ciebie, a także poinformuje Cię, co dzieje się w Twoim domu, nawet pod Twoją nieobecność powiadomi o wycieku wody lub gazu.Jak widać to nie tylko wygoda, ale i bezpieczeństwo!",
+  },
+  "smart__house_h4": {
+    ua: "Рекомендація від Disystems – технології брендів AMX, KNX, LUTRON",
+    en: "Recommendation from Disystems - AMX, KNX, LUTRON brand technologies",
+    pl: "Рекомендація від Disystems – технології брендів AMX, KNX, LUTRON",
+  },
+  "smart__house_p2": {
+    ua: "Американські бренди AMX, KNX, LUTRON мають багаторічний досвід створення інноваційних систем управління будинком. AMX - ведучий постачальник рішень для створення ефективного середовища роботи та проживання. Компанія вже давно вийшла за межі традиційного уявлення про автоматизацію будівель і в наші дні система «Розумний будинок» від AMX вважається однією з найефективніших, а також оптимальних за співвідношенням «ціна-якість».",
+    en: "American brands AMX, KNX, LUTRON have many years of experience in creating innovative home management systems. AMX is a leading provider of solutions for creating an efficient work and living environment. The company has long gone beyond the traditional notion of building automation, and nowadays the Smart Home system from AMX is considered one of the most effective, as well as optimal in terms of the price-quality ratio.",
+    pl: "Amerykańskie marki AMX, KNX, LUTRON posiadają bogate doświadczenie w tworzeniu innowacyjnych systemów dla budownictwa. AMX jest wiodącym dostawcą rozwiązań do tworzenia wydajnego środowiska pracy i życia.",
+  },
+  "smart__house_h5": {
+    ua: "Що означає ефективність у нашому розумінні?",
+    en: "What does efficiency mean in our understanding?",
+    pl: "Co oznacza efektywność w naszym rozumieniu?",
+  },
+  "smart__house_p3": {
+    ua: "Найширший асортимент продуктів АМХ та їх модульність дозволяють нам пропонувати максимально гнучкі рішення, чудово адаптуються до будь-яких вимог замовника. Завдяки цьому вартість системи автоматизації «Розумний будинок» від AMX може бути абсолютно різною – все залежить від індивідуальних побажань замовника.",
+    en: "The widest range of AMH products and their modularity allow us to offer the most flexible solutions that perfectly adapt to any customer requirements. Thanks to this, the cost of the Smart House automation system from AMX can be completely different - it all depends on the individual wishes of the customer.",
+    pl: "Najszersza gama produktów AMH oraz ich modułowość pozwalają nam oferować najbardziej elastyczne rozwiązania, które doskonale dopasowują się do wszelkich wymagań klientów. Dzięki temu koszt systemu automatyki „Inteligentny Dom” firmy AMX może być zupełnie inny – wszystko zależy od indywidualnych życzeń klienta.",
+  },
+  "smart__house_ul_li1": {
+    ua: "максимальна продуктивність, комфорт та безпека",
+    en: "maximum performance, comfort and safety",
+    pl: "maksymalna wydajność, komfort i bezpieczeństwo",
+  },
+  "smart__house_ul_li2": {
+    ua: "забезпечення надійності обладнання",
+    en: "ensuring equipment reliability",
+    pl: "zapewnienie niezawodności sprzętu",
+  },
+  "smart__house_ul_li3": {
+    ua: "низькі операційні витрати",
+    en: "low operating costs",
+    pl: "niskie koszty eksploatacji",
+  },
+  "smart__house_ul_li4": {
+    ua: "енергозбереження",
+    en: "energy saving",
+    pl: "oszczędzanie energii",
+  },
+  "smart__house_ul_li5": {
+    ua: "максимальний термін придатності програмного продукту",
+    en: "the maximum shelf life of the software product",
+    pl: "maksymalny okres trwałości oprogramowania",
+  },
+  "smart__house_ul_li6": {
+    ua: "відповідність вимогам державних стандартів",
+    en: "compliance with the requirements of state standards",
+    pl: "zgodność z wymaganiami norm państwowych",
+  },
+  "smart__house_p3": {
+    ua: "Найширший асортимент продуктів АМХ та їх модульність дозволяють нам пропонувати максимально гнучкі рішення, чудово адаптуються до будь-яких вимог замовника. Завдяки цьому вартість системи автоматизації «Розумний будинок» від AMX може бути абсолютно різною – все залежить від індивідуальних побажань замовника.",
+    en: "The widest range of AMH products and their modularity allow us to offer the most flexible solutions that perfectly adapt to any customer requirements. Thanks to this, the cost of the Smart House automation system from AMX can be completely different - it all depends on the individual wishes of the customer.",
+    pl: "Najszersza gama produktów AMH oraz ich modułowość pozwalają nam oferować najbardziej elastyczne rozwiązania, które doskonale dopasowują się do wszelkich wymagań klientów. Dzięki temu koszt systemu automatyki „Inteligentny Dom” firmy AMX może być zupełnie inny – wszystko zależy od indywidualnych życzeń klienta.",
+  },
+  "smart__house_p4": {
+    ua: "Автоматизація будинку та перетворення його на інтелектуальну будівлю – досяжна мрія, яку можна здійснити прямо зараз!",
+    en: "Home automation and turning it into an intelligent building is an achievable dream that can be realized right now!",
+    pl: "Automatyka domowa i przekształcenie jej w inteligentny budynek to marzenie osiągalne, które można zrealizować już teraz!",
+  },
+  "smart__house_p5": {
+    ua: "Професіонали Disystems проконсультують Вас про те, яка система буде оптимальна для Вашого приміщення або житла, підберуть найкраще за вартістю рішення, а потім виконають монтаж та налаштування. Вам залишиться лише користуватися «Розумним будинком» у власне задоволення!",
+    en: "Disystems professionals will advise you on which system will be optimal for your premises or housing, choose the best solution in terms of cost, and then carry out installation and configuration. All you have to do is use the Smart House to your own satisfaction!",
+    pl: "Specjaliści Disystems doradzą jaki system będzie optymalny dla Twojego lokalu lub mieszkania, wybiorą rozwiązanie najkorzystniejsze pod względem kosztów, a następnie przeprowadzą instalację i konfigurację. Wszystko, co musisz zrobić, to korzystać z „Inteligentnego domu” do własnej satysfakcji!",
+  },
 
   // home__cinema page
 
@@ -289,6 +364,122 @@ const homeTexts = {
     en: "Home cinema",
     pl: "Kino domowe",
   },
+  "home__cinema_h3": {
+    ua: "Компанія Disystems здійснює проектування та встановлення найсучасніших домашніх кінотеатрів. Усі наші проекти інтегровані з технологією «Розумний будинок», що дозволяє створити особливо комфортну атмосферу сьогодення домашнього кінотеатру.",
+    en: "The Disystems company designs and installs state-of-the-art home theaters. All our projects are integrated with Smart Home technology, which allows you to create a particularly comfortable atmosphere of today's home theater.",
+    pl: "Firma Disystems projektuje i instaluje najnowocześniejsze kina domowe. Wszystkie nasze projekty są zintegrowane z technologią „Smart Home”, która pozwala na stworzenie szczególnie komfortowej atmosfery dzisiejszego kina domowego.",
+  },
+  "home__cinema_p1": {
+    ua: "У компанії Disystems домашні кінотеатри представлені такими брендами: Loewe TV, AMX, Sunfire, iPort, B&W, Denon, Runco, JBL, Harman Kardon, Acoustic Smart, Monitor Audio, ELAN, Nuvo, ELAC.",
+    en: "At Disystems, home theaters are represented by the following brands: Loewe TV, AMX, Sunfire, iPort, B&W, Denon, Runco, JBL, Harman Kardon, Acoustic Smart, Monitor Audio, ELAN, Nuvo, ELAC.",
+    pl: "W Disystems kina domowe reprezentowane są przez marki: Loewe TV, AMX, Sunfire, iPort, B&W, Denon, Runco, JBL, Harman Kardon, Acoustic Smart, Monitor Audio, ELAN, Nuvo, ELAC.",
+  },
+  "home__cinema_p2": {
+    ua: "Ми завжди рекомендуємо підбирати комплект домашнього кінотеатру від одного виробника, оскільки комплектуючі від різних фірм можуть згодом конфліктувати між собою. У будь-якому випадку наші фахівці запропонують вам оптимальне рішення, що допускає також використання продуктів різних виробників. Наприклад, домашні кінотеатри від Denon та Harman Kardon можна поєднувати з супутніми товарами від Runco (проектори), Sunfire (акустичні системи) або Acoustic Smart (крісла).",
+    en: "We always recommend choosing a home theater kit from the same manufacturer, as components from different companies may later conflict with each other. In any case, our specialists will offer you the optimal solution, which also allows the use of products from different manufacturers. For example, home theaters from Denon and Harman Kardon can be combined with related products from Runco (projectors), Sunfire (speakers) or Acoustic Smart (chairs).",
+    pl: "Zawsze zalecamy wybór zestawu kina domowego tego samego producenta, ponieważ komponenty różnych firm mogą później kolidować ze sobą. W każdym przypadku nasi specjaliści zaproponują Państwu optymalne rozwiązanie, które pozwala również na zastosowanie produktów różnych producentów. Na przykład kina domowe Denon i Harman Kardon można łączyć z pokrewnymi produktami Runco (projektory), Sunfire (głośniki) lub Acoustic Smart (krzesła).",
+  },
+  "home__cinema_h5": {
+    ua: "Система домашнього кінотеатру включає:",
+    en: "The home theater system includes:",
+    pl: "Zestaw kina domowego obejmuje:",
+  },
+  "home__cinema_ul1_li1": {
+    ua: "будь-який програвач або сервер",
+    en: "any player or server",
+    pl: "dowolny gracz lub serwer",
+  },
+  "home__cinema_ul1_li2": {
+    ua: "напів-або професійну акустику, в тому числі і з системою Dolby Surround",
+    en: "semi- or professional acoustics, including with the Dolby Surround system",
+    pl: "pół- lub profesjonalną akustykę, w tym z systemem Dolby Surround",
+  },
+  "home__cinema_ul1_li3": {
+    ua: "систему підсилювачів",
+    en: "system of amplifiers",
+    pl: "układ wzmacniaczy",
+  },
+  "home__cinema_ul1_li4": {
+    ua: "плазмова панель / телевізор / проектор та проекційний екран",
+    en: "plasma panel / TV / projector and projection screen",
+    pl: "panel plazmowy / telewizor / projektor i ekran projekcyjny",
+  },
+  "home__cinema_h5_2": {
+    ua: "Система озвучування. Акустичні системи.",
+    en: "Sound system. Acoustic systems.",
+    pl: "System dzwiękowy. Systemy akustyczne.",
+  },
+  "home__cinema_p3": {
+    ua: "Системи озвучування компанії Disystems – це підбір, компонування, встановлення та налаштування звукових систем приміщення будь-якого призначення.",
+    en: "The Disystems sound systems are the selection, layout, installation and adjustment of sound systems for rooms of any purpose.",
+    pl: "Systemy nagłaśniające Disystems to dobór, rozplanowanie, montaż i dostosowanie systemów nagłośnienia do pomieszczeń o dowolnym przeznaczeniu.",
+  },
+  "home__cinema_h6": {
+    ua: "Наші фахівці реалізують озвучування найрізноманітніших приміщень:",
+    en: "Our specialists provide sound systems for a wide variety of premises:",
+    pl: "Nasi specjaliści dostarczają nagłośnienie do różnego rodzaju lokali:",
+  },
+  "home__cinema_ul2_l1": {
+    ua: "конференц-залів",
+    en: "conference halls",
+    pl: "sale konferencyjne",
+  },
+  "home__cinema_ul2_l2": {
+    ua: "кафе, ресторанів",
+    en: "cafes, restaurants",
+    pl: "kawiarnie, restauracje",
+  },
+  "home__cinema_ul2_l13": {
+    ua: "караоке-барів",
+    en: "karaoke bars",
+    pl: "bary karaoke",
+  },
+  "home__cinema_ul2_l4": {
+    ua: "магазинів",
+    en: "shops",
+    pl: "sklepy",
+  },
+  "home__cinema_ul2_l5": {
+    ua: "торговельних центрів",
+    en: "shopping centers",
+    pl: "centra handlowe",
+  },
+  "home__cinema_ul2_l6": {
+    ua: "будь-яких інших приміщень",
+    en: "any other premises",
+    pl: "jakikolwiek inny lokal",
+  },
+  "home__cinema_p4": {
+    ua: "Кожне приміщення по-своєму унікальне і тому для його якісного озвучування необхідно враховувати всі деталі. Компанія Disystems надає своїм клієнтам консультації, які допоможуть максимально правильно підібрати необхідне обладнання для найкращого результату.",
+    en: "Each room is unique in its own way, and therefore for its high-quality sounding, all details must be taken into account. The Disystems company provides its customers with consultations that will help them to choose the necessary equipment as correctly as possible for the best result.",
+    pl: "Każde pomieszczenie jest na swój sposób wyjątkowe, dlatego dla uzyskania wysokiej jakości brzmienia należy wziąć pod uwagę wszystkie szczegóły. Firma Disystems zapewnia swoim klientom konsultacje, które pomogą w jak najbardziej trafnym doborze niezbędnego sprzętu dla uzyskania jak najlepszego efektu.",
+  },
+  "home__cinema_p5": {
+    ua: "Крім стандартних аудіосистем, у проектах ми використовуємо вбудовувану, всепогодну та ландшафтну акустику. Такі елементи звукової системи органічно вписуються в інтер'єр і маскуються під елементи прибудинкової території. Всепогодна акустика дозволяє створювати найкращі звукові рішення для саун та басейнів. Тому нам під силу проект будь-якої складності та специфіки!",
+    en: "In addition to standard audio systems, we use built-in, all-weather and landscape acoustics in our projects. Such elements of the sound system organically fit into the interior and are disguised as elements of the surrounding area. All-weather acoustics allow you to create the best sound solutions for saunas and swimming pools. Therefore, we can handle a project of any complexity and specificity!",
+    pl: "Oprócz standardowych systemów audio, w naszych projektach wykorzystujemy akustykę zabudowaną, na każdą pogodę i krajobraz. Takie elementy nagłośnienia organicznie wpasowują się we wnętrze i są przebrane za elementy otoczenia. Akustyka na każdą pogodę pozwala tworzyć najlepsze rozwiązania dźwiękowe do saun i basenów. Dlatego możemy obsłużyć projekt o dowolnej złożoności i specyfice!",
+  },
+  "home__cinema_h5_3": {
+    ua: "Підбір та встановлення системи озвучування приміщень складається з кількох важливих етапів:",
+    en: "Selection and installation of a sound system for premises consists of several important stages:",
+    pl: "Dobór i montaż nagłośnienia do lokalu składa się z kilku ważnych etapów:",
+  },
+  "home__cinema_ul3_l1": {
+    ua: "упорядкування проекту, в якому враховуються всі побажання замовника та можливості самого приміщення. вибір обладнання.",
+    en: "arrangement of the project, which takes into account all the wishes of the customer and the possibilities of the premises itself. equipment selection.",
+    pl: "aranżacja projektu uwzględniająca wszelkie życzenia klienta oraz możliwości samego lokalu. dobór sprzętu.",
+  },
+  "home__cinema_ul3_l2": {
+    ua: "розрахунки акустичних характеристик приміщення. це сприяє максимально якісному виконанню поставленого завдання.",
+    en: "calculations of acoustic characteristics of the room. this contributes to the highest quality performance of the assigned task.",
+    pl: "obliczenia charakterystyk akustycznych pomieszczenia. przyczynia się to do najwyższej jakości wykonania powierzonego zadania.",
+  },
+  "home__cinema_ul3_l3": {
+    ua: "тестування та монтаж акустичного обладнання, а також перевірка звучання всієї реалізованої системи. це допомагає запобігти різноманітним непередбаченим ситуаціям під час роботи. а також дозволяє переконатися у правильності підбору апаратури та, за необхідності, провести коригування.",
+    en: "testing and installation of acoustic equipment, as well as checking the sound of the entire implemented system. it helps to prevent various unforeseen situations during work. and also allows you to make sure that the equipment is selected correctly and, if necessary, make adjustments.",
+    pl: "testowanie i montaż urządzeń akustycznych, a także sprawdzanie brzmienia całego wdrożonego systemu. pomaga zapobiegać różnym nieprzewidzianym sytuacjom podczas pracy. a także pozwala upewnić się, że sprzęt jest dobrany prawidłowo iw razie potrzeby dokonać regulacji.",
+  },
+
 
   // smart__security page
 
@@ -298,12 +489,143 @@ const homeTexts = {
     pl: "Smart Bezpieczeństwo",
   },
 
+  "smart__security_h3": {
+    ua: "Невід'ємною частиною комфорту в наш час являється система безпеки.",
+    en: "An integral part of comfort nowadays is the security system.",
+    pl: "W dzisiejszych czasach integralną częścią komfortu jest system bezpieczeństwa.",
+  },
+  "smart__security_p1": {
+    ua: "Умовно функції системи можна розділити на охоронні та інженерні. Кожна з них по – своєму важлива. Комплексне рішення дозволить зберегти в цілісності майно власника. Але головне, що окремі компоненти можуть зберегти життя та здоров’я, запобігти матеріальним втратам.",
+    en: "Conventionally, the functions of the system can be divided into security and engineering. Each of them is important in its own way. A comprehensive solution will preserve the integrity of the owner's property. But the main thing is that individual components can save life and health, prevent material losses.",
+    pl: "Tradycyjnie funkcje systemu można podzielić na bezpieczeństwo i inżynierię. Każdy z nich jest ważny na swój sposób. Kompleksowe rozwiązanie pozwoli zachować integralność własności właściciela. Ale najważniejsze jest to, że poszczególne elementy mogą uratować życie i zdrowie, zapobiec stratom materialnym.",
+  },
+  "smart__security_h5": {
+    ua: "Система безпеки є сукупністю компонентів, робота яких спрямована на виявлення та запобігання різного роду небезпек.",
+    en: "The security system is a set of components whose work is aimed at detecting and preventing various types of dangers.",
+    pl: "System bezpieczeństwa to zestaw elementów, których praca ma na celu wykrywanie i zapobieganie różnego rodzaju zagrożeniom.",
+  },
+  "smart__security_ul1_li1": {
+    ua: "система відеоспостереження",
+    en: "video surveillance system",
+    pl: "system nadzoru wideo",
+  },
+  "smart__security_ul1_li2": {
+    ua: "датчики сигналізації",
+    en: "alarm sensors",
+    pl: "czujniki alarmowe",
+  },
+  "smart__security_ul1_li3": {
+    ua: "пожежна сигналізація",
+    en: "fire alarm",
+    pl: "alarm przeciwpożarowy",
+  },
+  "smart__security_ul1_li4": {
+    ua: "газова сигналізація",
+    en: "gas alarm system",
+    pl: "system alarmowy gazu",
+  },
+  "smart__security_ul1_li5": {
+    ua: "датчик протікання",
+    en: "leakage sensor",
+    pl: "czujnik wycieku",
+  },
+  "smart__security_ul1_li6": {
+    ua: "датчик руху",
+    en: "motion sensor",
+    pl: "czujnik ruchu",
+  },
+  "smart__security_ul1_li7": {
+    ua: "відео няня",
+    en: "babysitter video",
+    pl: "wideo opiekunki",
+  },
+  "smart__security_ul1_li8": {
+    ua: "імітація присутності",
+    en: "imitation of presence",
+    pl: "imitacja obecności",
+  },
+  "smart__security_h5_1": {
+    ua: "Всі пристрої, що входять в комплекс мають компактні розміри і чітко визначений функціонал.",
+    en: "All devices included in the complex have compact dimensions and clearly defined functionality.",
+    pl: "Wszystkie urządzenia wchodzące w skład kompleksu mają kompaktowe wymiary i jasno określoną funkcjonalność.",
+  },
+  "smart__security_p2": {
+    ua: "В сучасних реаліях система безпеки від компанії Disystems виконає поставлені завдання навіть при аварійному відключенні електроенергії. В такому випадку система перейде на резервне живлення і відключити певні побутові прилади. При цьому власник зможе особисто контролювати роботу системи і своєчасно запустити генератор для підзарядки вбудованих акумуляторів.",
+    en: "In modern realities, the security system from the company Disystems will fulfill its tasks even in the event of an emergency power outage. In this case, the system will switch to backup power and turn off certain household appliances. At the same time, the owner will be able to personally monitor the operation of the system and timely start the generator to recharge the built-in batteries.",
+    pl: "We współczesnych realiach system bezpieczeństwa firmy Disystems spełni swoje zadania nawet w przypadku awaryjnego zaniku zasilania. W takim przypadku system przełączy się na zasilanie rezerwowe i wyłączy niektóre urządzenia gospodarstwa domowego. Jednocześnie właściciel będzie mógł osobiście monitorować działanie systemu i na czas uruchomić generator, aby naładować wbudowane akumulatory.",
+  },
+  "smart__security_p3": {
+    ua: "Професіонали Disystems проконсультують Вас про те, яка система буде оптимальна для Вашого приміщення або житла, підберуть найкраще за вартістю рішення, а потім виконають монтаж та налаштування. Вам залишиться лише користуватися «Розумним будинком» у власне задоволення!",
+    en: "Disystems professionals will advise you on which system will be optimal for your premises or housing, choose the best solution in terms of cost, and then carry out installation and configuration. All you have to do is use the Smart House to your own satisfaction!",
+    pl: "Specjaliści Disystems doradzą jaki system będzie optymalny dla Twojego lokalu lub mieszkania, wybiorą rozwiązanie najkorzystniejsze pod względem kosztów, a następnie przeprowadzą instalację i konfigurację. Wszystko, co musisz zrobić, to korzystać z „Inteligentnego domu” do własnej satysfakcji!",
+  },
+
   // smart__lights page
 
   "smart__lights_title": {
     ua: "Smart Освітлення",
     en: "Smart Lighting",
     pl: "Smart oświetlenie",
+  },
+  "smart__lights_h3": {
+    ua: "Система Smart Освітлення – це керування світлом у Вашому домі в автоматичному режимі.",
+    en: "The Smart Lighting system is the control of light in your home in automatic mode.",
+    pl: "System Smart Lighting to sterowanie światłem w Twoim domu w trybie automatycznym.",
+  },
+  "smart__lights_p1": {
+    ua: "Досконало розроблена система освітлення від компанії Disystems має продуманий та зручний спосіб управління, а також ергономічність, відмінний стиль та почуття міри.",
+    en: "The well-designed lighting system from the Disystems company has a well-thought-out and convenient control method, as well as ergonomics, excellent style and a sense of proportion.",
+    pl: "Dobrze zaprojektowany system oświetleniowy firmy Disystems charakteryzuje się przemyślanym i wygodnym sposobem sterowania, a także ergonomią, doskonałym stylem i wyczuciem proporcji.",
+  },
+  "smart__lights_h5_1": {
+    ua: "Ключові переваги наших систем освітлення:",
+    en: "Key advantages of our lighting systems:",
+    pl: "Kluczowe zalety naszych systemów oświetleniowych:",
+  },
+  "smart__lights_ul1_li1": {
+    ua: "увімкнення та вимкнення світильників у плавному режимі.",
+    en: "turning lights on and off smoothly.",
+    pl: "płynne włączanie i wyłączanie świateł.",
+  },
+  "smart__lights_ul1_li2": {
+    ua: "зміна яскравості освітлення залежно від ступеня освітленості, можливість ручного регулювання.",
+    en: "changing the brightness of the lighting depending on the degree of illumination, the possibility of manual adjustment.",
+    pl: "zmiana jasności oświetlenia w zależności od stopnia oświetlenia, możliwość ręcznej regulacji.",
+  },
+  "smart__lights_ul1_li3": {
+    ua: "можливість створення різних програм «світлових сценаріїв» - для включення джерел освітлення (світильників, люстр, бра і т. д.) за натисканням лише однієї кнопки.",
+    en: "the possibility of creating various programs lighting scenarios - to turn on lighting sources (lamps, chandeliers, sconces, etc.) by pressing only one button.",
+    pl: "możliwość tworzenia różnych programów „scenariuszy świetlnych” – włączania źródeł światła (lamp, żyrandoli, kinkietów itp.) poprzez naciśnięcie tylko jednego przycisku.",
+  },
+  "smart__lights_ul1_li4": {
+    ua: "«імітація присутності господаря» – охоронна функція, яка дозволяє за заданою програмою вмикати та вимикати світло у різних кімнатах у момент відсутності господарів.",
+    en: "simulation of the presence of the owner is a security function that allows you to turn on and off the lights in different rooms in the absence of the owners according to a given program.",
+    pl: "„symulacja obecności właściciela” to funkcja bezpieczeństwa, która pozwala na włączanie i wyłączanie światła w różnych pomieszczeniach pod nieobecność właścicieli według zadanego programu.",
+  },
+  "smart__lights_ul1_li5": {
+    ua: "дистанційне керування зовнішнім освітленням (наприклад, у дворі та придворовій території) за допомогою світлочутливих датчиків та пульта керування.",
+    en: "remote control of outdoor lighting (for example, in the yard and courtyard area) using light-sensitive sensors and a control panel.",
+    pl: "zdalne sterowanie oświetleniem zewnętrznym (np. na podwórku i dziedzińcu) za pomocą światłoczułych czujników i panelu sterowania.",
+  },
+  "smart__lights_h5_2": {
+    ua: "У компанії Disystems системи освітлень представлені брендами Lutron, AMX, KNX.",
+    en: "At Disystems, lighting systems are represented by Lutron, AMX, KNX brands.",
+    pl: "W Disystems systemy oświetleniowe reprezentowane są przez marki Lutron, AMX, KNX.",
+  },
+  "smart__lights_p2": {
+    ua: "Система освітлення Lutron по праву вважається кращою інтегрованою системою управління. Вона дозволяє використовувати лише потрібну кількість світла, зменшуючи споживання електроенергії та продовжити термін служби ламп. З інноваційними екологічними системами освітлення Ви можете заощаджувати енергію без шкоди комфорту та стилю!",
+    en: "The Lutron lighting system is rightfully considered the best integrated control system. It allows you to use only the necessary amount of light, reducing electricity consumption and extending the life of the lamps. With innovative ecological lighting systems, you can save energy without sacrificing comfort and style!",
+    pl: "System oświetlenia Lutron jest słusznie uważany za najlepszy zintegrowany system sterowania. Pozwala na wykorzystanie tylko niezbędnej ilości światła, zmniejszając zużycie energii elektrycznej i wydłużając żywotność lamp. Dzięki innowacyjnym ekologicznym systemom oświetleniowym możesz oszczędzać energię, nie rezygnując z komfortu i stylu!",
+  },
+  "smart__lights_p3": {
+    ua: "Для створення енергозберігаючого освітлення також застосовуються світлодіодні лампи та світильники, що споживають мінімум електроенергії.",
+    en: "To create energy-saving lighting, LED lamps and lamps that consume a minimum of electricity are also used.",
+    pl: "Aby stworzyć energooszczędne oświetlenie, stosuje się również lampy LED i lampy, które zużywają minimum energii elektrycznej.",
+  },
+  "smart__lights_p4": {
+    ua: "Крім того, наша компанія може запропонувати вам трекові системи освітлення. Вони з легкістю можуть змінювати свою форму, висоту та напрямок світла. Відмінна передача кольорів і комфортний світловий спектр створюють ідеальний тандем разом із технологією Розумний будинок.",
+    en: "In addition, our company can offer you track lighting systems. They can easily change their shape, height and direction of light. Excellent color rendering and a comfortable light spectrum create an ideal tandem together with Smart Home technology.",
+    pl: "Ponadto nasza firma może zaoferować Państwu systemy oświetlenia szynowego. Z łatwością mogą zmieniać swój kształt, wysokość oraz kierunek padania światła. Doskonałe oddawanie barw i komfortowe spektrum światła tworzą razem z technologią Smart Home idealny tandem.",
   },
 };
 
