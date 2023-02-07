@@ -105,6 +105,26 @@ const homeTexts = {
     en: "Smart house technology",
     pl: "Inteligentny dom",
   },
+  "card__item_hover_1": {
+    ua: "Детальніше",
+    en: "More details",
+    pl: "Więcej szczegółów",
+  },
+  "card__item_hover_2": {
+    ua: "Детальніше",
+    en: "More details",
+    pl: "Więcej szczegółów",
+  },
+  "card__item_hover_3": {
+    ua: "Детальніше",
+    en: "More details",
+    pl: "Więcej szczegółów",
+  },
+  "card__item_hover_4": {
+    ua: "Детальніше",
+    en: "More details",
+    pl: "Więcej szczegółów",
+  },
   "smart__house-text": {
     ua: "Автоматизація систем керування світлом, звуком, безпекою та кліматом",
     en: "Automation of light, sound, security and climate control systems",
@@ -765,7 +785,7 @@ function pageSlideUp() {
       arrowUp.classList.remove('show');
     }
   });
-  
+
   $(arrowUp).on("click", function (event) {
     event.preventDefault();
     var id = $(this).attr('href'),
@@ -970,7 +990,7 @@ repairArrowHover();
 
 ////////////////////////////////////////////////////////////////////////////
 
-let pageContainsServiceArrow = page.querySelector('.service');
+/* let pageContainsServiceArrow = page.querySelector('.service');
 
 if (pageContainsServiceArrow) {
   serviceArrowHover();
@@ -980,14 +1000,14 @@ function serviceArrowHover() {
 
   let sectionService = document.querySelector('.service');
   let serviceLinks = Array.from(sectionService.querySelectorAll('.card__link'));
-  let serviceArrow = '<div class="card__item-hover"><span class="card__item-arrow"><svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d = "M0.349982 1.12283C0.156692 1.32953 0.156692 1.66467 0.349982 1.87137L5.24972 7.11118C5.44301 7.31788 5.7564 7.31788 5.94969 7.11118L6.64965 6.36264C6.84294 6.15593 6.84294 5.8208 6.64965 5.61409L1.74991 0.374285C1.55662 0.16758 1.24323 0.16758 1.04994 0.374285L0.349982 1.12283Z"/><path d = "M5.94959 4.88883C5.7563 4.68212 5.44292 4.68212 5.24963 4.88883L0.349885 10.1286C0.156596 10.3353 0.156596 10.6705 0.349885 10.8772L1.04985 11.6257C1.24314 11.8324 1.55652 11.8324 1.74981 11.6257L6.64955 6.38592C6.84284 6.17921 6.84284 5.84408 6.64955 5.63737L5.94959 4.88883Z"/></svg></span><span class="lng-card__item">Детальніше</span></div>';
+  let serviceArrow = '<div class="card__item-hover" data-lang="card__item_hover"><span class="card__item-arrow"><svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d = "M0.349982 1.12283C0.156692 1.32953 0.156692 1.66467 0.349982 1.87137L5.24972 7.11118C5.44301 7.31788 5.7564 7.31788 5.94969 7.11118L6.64965 6.36264C6.84294 6.15593 6.84294 5.8208 6.64965 5.61409L1.74991 0.374285C1.55662 0.16758 1.24323 0.16758 1.04994 0.374285L0.349982 1.12283Z"/><path d = "M5.94959 4.88883C5.7563 4.68212 5.44292 4.68212 5.24963 4.88883L0.349885 10.1286C0.156596 10.3353 0.156596 10.6705 0.349885 10.8772L1.04985 11.6257C1.24314 11.8324 1.55652 11.8324 1.74981 11.6257L6.64955 6.38592C6.84284 6.17921 6.84284 5.84408 6.64955 5.63737L5.94959 4.88883Z"/></svg></span><span class="lng-card__item">Детальніше</span></div>';
 
   for (let item of serviceLinks) {
 
     item.insertAdjacentHTML('beforeend', serviceArrow);
 
   }
-}
+} */
 
 ////////////////////////////////////////////////////////////////////////////
 
